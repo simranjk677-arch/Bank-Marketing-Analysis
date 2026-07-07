@@ -21,6 +21,8 @@ Opportunities to optimize marketing resources and improve ROI
 
 Dataset: Bank Marketing Dataset
 
+             DATASET IS HIGHLY IMBALANCED
+
 #### Target Variable:
 
 y – Indicates whether the customer subscribed to a term deposit (Yes/No)
