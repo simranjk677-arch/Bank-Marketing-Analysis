@@ -57,10 +57,15 @@ Initial data review
 #### 1. Data Cleaning & Preparation
 ##### Removed duplicates -- There were 12 duplicate rows
 <img width="222" height="60" alt="Image" src="https://github.com/user-attachments/assets/568c4d3f-e02d-482b-a553-649cb8192f4c" />
+
 ##### Handled missing and unknown values -- No missing values but unknown in categories were present
+<img width="347" height="50" alt="Image" src="https://github.com/user-attachments/assets/229cd596-ffe5-4444-9b1b-b7c4e736ddf5" />
+
 ##### Standardized column names 
 ##### Created derived features
 ##### Categorized customer age groups -- Feature engineering for better understanding
+<img width="375" height="96" alt="Image" src="https://github.com/user-attachments/assets/8d69f65b-d048-49b0-b43b-383198e4d900" />
+
 ##### Improved data consistency for analysis
 #### 2. Exploratory Data Analysis (EDA)
 ##### Customer demographic analysis
@@ -73,11 +78,25 @@ Economic indicator analysis
 ##### Key business questions answered:
 
 ##### 1.) What is the overall subscription rate?
+<img width="233" height="37" alt="Image" src="https://github.com/user-attachments/assets/a6c1b052-9122-453b-b268-199f4225402b" />
+
 ##### 2.) Which month generated the highest subscriptions?
+<img width="348" height="180" alt="Image" src="https://github.com/user-attachments/assets/2adedccd-02b5-43c0-8a47-f46ef3b5387c" />
+
 ##### 3.) Which contact method achieved the highest conversion rate?
+<img width="206" height="35" alt="Image" src="https://github.com/user-attachments/assets/efdbf487-c3c4-4817-8ad9-8fb131456173" />
+
 ##### 4.) Which customer segments performed best?
+<img width="356" height="174" alt="Image" src="https://github.com/user-attachments/assets/f022dc6e-3614-4138-868a-65f81f346d1d" />
+
 ##### 5.)How does previous campaign outcome affect conversion?
+<img width="112" height="231" alt="Image" src="https://github.com/user-attachments/assets/e173fc0a-fa3f-4ec3-9f99-c543578c5c8d" />
+
 ##### 6.) What percentage of customers have housing or personal loans?
+<img width="206" height="36" alt="Image" src="https://github.com/user-attachments/assets/1f21d6ca-c1a1-4cdb-8aae-fbe6bdcd528b" />
+
+<img width="187" height="71" alt="Image" src="https://github.com/user-attachments/assets/eaf76c7a-5dd5-4f16-ac89-178b05bbdcea" />
+
 
 #### 4. Power BI Dashboard
 
