@@ -106,7 +106,7 @@ Economic indicator analysis
 ##### Campaign Performance Analysis
 ##### Economic Factors & Business Insights
 
-#### Key Findings
+## Key Findings
 ##### -Call duration emerged as the strongest factor associated with successful subscriptions.
 ##### -Customer engagement plays a significant role in campaign success.
 ##### - Middle-aged and adult customers represent the most stable and valuable customer segments.
@@ -114,7 +114,7 @@ Economic indicator analysis
 ##### - Customers with positive previous campaign outcomes show higher conversion rates.
 ##### - Repeated campaign contacts provide diminishing returns after a certain point.
 
-#### Business Recommendations
+## Business Recommendations
 ##### - Prioritize high-engagement customer segments.
 ##### - Increase focus on customers with a history of successful campaign responses.
 ##### - Use cellular communication channels where possible.
@@ -122,7 +122,7 @@ Economic indicator analysis
 ##### - Focus marketing resources on high-conversion customer profiles.
 ##### - Implement data-driven targeting strategies to maximize ROI.
 
-#### Dashboard Preview
+## Dashboard Preview
 
 Executive Overview
 
@@ -140,11 +140,11 @@ Business Insights
 
 <img width="690" height="378" alt="Image" src="https://github.com/user-attachments/assets/6259ec26-126b-42d2-b9d5-9af33034391a" />
 
-#### Project Outcome
+## Project Outcome
 
 This project demonstrates an end-to-end data analytics workflow, including data cleaning, exploratory analysis, SQL-based business intelligence, dashboard development, and strategic recommendation generation. The insights generated can help financial institutions improve campaign effectiveness, optimize marketing spending, and enhance customer targeting strategies.
 
-#### Author
+## Author
 #### Simranjit Kaur
 Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization
 
