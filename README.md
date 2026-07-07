@@ -78,7 +78,7 @@ Economic indicator analysis
 ##### Key business questions answered:
 
 ##### 1.) What is the overall subscription rate?
-<img width="233" height="37" alt="Image" src="https://github.com/user-attachments/assets/a6c1b052-9122-453b-b268-199f4225402b" />
+<img width="287" height="38" alt="Image" src="https://github.com/user-attachments/assets/c0269b7a-b84e-4ae0-be80-ebc5a2829347" />
 
 ##### 2.) Which month generated the highest subscriptions?
 <img width="348" height="180" alt="Image" src="https://github.com/user-attachments/assets/2adedccd-02b5-43c0-8a47-f46ef3b5387c" />
