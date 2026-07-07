@@ -21,7 +21,7 @@ Opportunities to optimize marketing resources and improve ROI
 
 Dataset: Bank Marketing Dataset
 
-             DATASET IS HIGHLY IMBALANCED
+    DATASET IS HIGHLY IMBALANCED
 
 #### Target Variable:
 
@@ -29,11 +29,11 @@ y – Indicates whether the customer subscribed to a term deposit (Yes/No)
 
 #### Key Features:
 
-*Customer demographics (Age, Job, Marital Status, Education)
-*Financial information (Housing Loan, Personal Loan)
-*Campaign information (Contact Method, Duration, Campaign Calls)
-*Previous campaign outcomes
-*Economic indicators
+##### Customer demographics (Age, Job, Marital Status, Education)
+##### Financial information (Housing Loan, Personal Loan)
+##### Campaign information (Contact Method, Duration, Campaign Calls)
+##### Previous campaign outcomes
+##### Economic indicators
 
 ## Tools & Technologies
 #### Python
