@@ -113,12 +113,15 @@ Executive Overview
 <img width="767" height="428" alt="Image" src="https://github.com/user-attachments/assets/c19ae56c-4cea-4ea2-bc03-c579aa421870" />
 
 Customer Segmentation
+
 <img width="695" height="395" alt="Image" src="https://github.com/user-attachments/assets/5893e25e-db33-4abf-b193-317f3160127e" />
 
 Campaign Performance
+
 <img width="695" height="392" alt="Image" src="https://github.com/user-attachments/assets/c96507a5-8027-4b45-83f9-16518a2f2d6d" />
 
 Business Insights
+
 <img width="690" height="378" alt="Image" src="https://github.com/user-attachments/assets/6259ec26-126b-42d2-b9d5-9af33034391a" />
 
 #### Project Outcome
@@ -130,5 +133,6 @@ This project demonstrates an end-to-end data analytics workflow, including data 
 Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization
 
 LinkedIn: linkedin.com/in/simranjit-kaur-5167823a8
+[LinkedIn Profile](https://www.linkedin.com/in/simranjit-kaur-5167823a8/)
 
 E-Mail: simranjk.677@gmail.com
