@@ -56,6 +56,7 @@ Initial data review
 ## Project Workflow
 #### 1. Data Cleaning & Preparation
 ##### Removed duplicates -- There were 12 duplicate rows
+<img width="222" height="60" alt="Image" src="https://github.com/user-attachments/assets/568c4d3f-e02d-482b-a553-649cb8192f4c" />
 ##### Handled missing and unknown values -- No missing values but unknown in categories were present
 ##### Standardized column names 
 ##### Created derived features
