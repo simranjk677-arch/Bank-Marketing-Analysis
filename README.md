@@ -27,15 +27,11 @@ y – Indicates whether the customer subscribed to a term deposit (Yes/No)
 
 #### Key Features:
 
-Customer demographics (Age, Job, Marital Status, Education)
-
-Financial information (Housing Loan, Personal Loan)
-
-Campaign information (Contact Method, Duration, Campaign Calls)
-
-Previous campaign outcomes
-
-Economic indicators
+*Customer demographics (Age, Job, Marital Status, Education)
+*Financial information (Housing Loan, Personal Loan)
+*Campaign information (Contact Method, Duration, Campaign Calls)
+*Previous campaign outcomes
+*Economic indicators
 
 ## Tools & Technologies
 #### Python
@@ -132,7 +128,6 @@ This project demonstrates an end-to-end data analytics workflow, including data 
 #### Simranjit Kaur
 Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization
 
-LinkedIn: linkedin.com/in/simranjit-kaur-5167823a8
-[LinkedIn Profile](https://www.linkedin.com/in/simranjit-kaur-5167823a8/)
+LinkedIn:[Simranjit Kaur](https://www.linkedin.com/in/simranjit-kaur-5167823a8/)
 
 E-Mail: simranjk.677@gmail.com
